@@ -13,4 +13,5 @@ end
 
 group :test do
   gem 'rspec'
+  gem 'gem_isolator', '~> 0.2', '>= 0.2.3'
 end
